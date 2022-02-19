@@ -5,7 +5,7 @@
     "exchange_secret": "YOUR BINANCE API SECRET",
     "api_requests_frequency_per_second": 1,
     "trailing_step_percent": 0.2,
-    "change_percent": 3,
+    "change_percent": 10,
     "coin_pair": "hot/usdt",
     "paper_trading": "yes",
     "direction": "long"
