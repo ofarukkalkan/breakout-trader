@@ -1,12 +1,12 @@
 {
-    "telegram_token": "",
-    "telegram_chat_id": "",
+    "telegram_token": "5284419735:AAG3VX8Zm4YlsT5zAnPif7cly05KhRr2mVk",
+    "telegram_chat_id": "-1001655133194",
     "exchange_key": "YOUR BINANCE API KEY",
     "exchange_secret": "YOUR BINANCE API SECRET",
     "api_requests_frequency_per_second": 1,
     "trailing_step_percent": 0.2,
-    "change_percent": 20,
-    "coin_pair": "btc/busd",
+    "change_percent": 3,
+    "coin_pair": "hot/usdt",
     "paper_trading": "yes",
     "direction": "long"
 }
